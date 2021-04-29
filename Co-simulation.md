@@ -1,8 +1,8 @@
 # Co-simulation using SCALE-Sim and DRAMSim
 
 ## Prerequsites
-[x] Customize SCALE-Sim to emit the cycle-discrete traces (such customization I shall call it non-vanilla version)
-[x] Customize DRAMSim3 for script-based recording needed
+- [x] Customize SCALE-Sim to emit the cycle-discrete traces (such customization I shall call it non-vanilla version)
+- [x] Customize DRAMSim3 for script-based recording needed
 
 ## Steps
 * Define the top config & network topology files in SCALE-Sim
