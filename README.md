@@ -1,7 +1,9 @@
 # Efficient-Grad
 An efficient and versatile backprop-based learning algorithm and architecture
 
-## A Survey for Current Training Accelerators (Ongoing)
+## Primary References
+
+### Training Accelerators
 
 ### 2021 JSSC
 - **DF-LNPU: A Pipelined Direct Feedback Alignment-Based Deep Neural Network Learning Processor for Fast Online Learning.** (KAIST)(FA)
