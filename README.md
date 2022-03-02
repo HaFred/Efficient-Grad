@@ -10,6 +10,26 @@ prior specific permission and/or a fee. Request permissions from permissions@acm
 1539-9087/2021/1-ART1 $15.00
 https://doi.org/10.1145/3504034
 
+## Citation
+If you find this work useful for your research, please use the following BibTeX entry.
+```bibtex
+@article{10.1145/3504034,
+author = {Hong, Ziyang and Yue, C. Patrick},
+title = {Efficient-Grad: <u class="uu">Efficient</u> Training Deep Convolutional Neural Networks on Edge Devices with <u class="uu">Grad</u>ient Optimizations},
+year = {2022},
+issue_date = {March 2022},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {21},
+number = {2},
+issn = {1539-9087},
+url = {https://doi.org/10.1145/3504034},
+doi = {10.1145/3504034},
+month = {feb},
+articleno = {19},
+numpages = {24},
+}
+```
 ## Primary References
 
 ### Training Accelerators
